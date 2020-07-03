@@ -3,8 +3,8 @@ future==0.16.0
 macholib==1.9
 mutagen==1.40.0
 pefile==2017.11.5
-Pillow==6.2.0
-PyInstaller==3.3.1
+Pillow==6.2.2
+PyInstaller==3.6
 pypiwin32==223
 PyQt5==5.10.1
 pywin32==223
