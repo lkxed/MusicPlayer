@@ -7,5 +7,5 @@ Pillow==7.1.0
 PyInstaller==3.6
 pypiwin32==223
 PyQt5==5.10.1
-pywin32==223
+pywin32==301
 sip==4.19.8
